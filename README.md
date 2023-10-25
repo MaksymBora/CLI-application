@@ -12,4 +12,7 @@ Add contact with new ID
 https://monosnap.com/file/UmIdMOkqLu5T9QOz6TsSF5cNbGwtqG
 
 Delete contact from the list
-https://monosnap.com/file/KHEWDur33uFi4UZdJ3QTs0AIFQpjHe
+https://monosnap.com/file/pbbh6bnJJa4MX0DQHSylprM30pMiFg
+
+Delete => Return null if contact is not in the list.
+https://monosnap.com/file/6yLY7Ha73zPSEPwpaLyaKrK4k9G6vq
